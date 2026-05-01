@@ -98,9 +98,9 @@ npm run dev
 
 ---
 
-## 📸 Screenshots / Ekran Görüntüleri
+## 📸 Live / Canlı
 
-> Coming soon / Yakında eklenecek
+> http://pokedex-mert.vercel.app/
 
 ---
 
